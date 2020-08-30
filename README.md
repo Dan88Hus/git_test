@@ -1,1 +1,1 @@
-deneme on gui	
+this is Daniels' first git project
